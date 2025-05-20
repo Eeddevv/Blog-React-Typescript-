@@ -1,4 +1,7 @@
 {
   "test": "PRIVET",
-  "language": "Русский"
+  "language": "Русский",
+  "mainPage": "Главная",
+  "aboutPage": "О сайте",
+  "toggle": "Переключить"
 }
