@@ -9,10 +9,6 @@ import useTheme from './providers/ThemeProvider/lib/useTheme';
 const App = () => {
   const { theme } = useTheme();
 
-  useEffect(() => {
-    throw new Error('test error');
-  }, []);
-
   return (
     <div className={classNames('app', {}, [theme])}>
       <Navbar />
