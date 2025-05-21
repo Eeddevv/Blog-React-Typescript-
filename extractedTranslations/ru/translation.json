@@ -1,4 +1,10 @@
 {
   "about": "about",
-  "language": "language"
+  "aboutPage": "aboutPage",
+  "language": "language",
+  "mainPage": "mainPage",
+  "notFoundPage": "notFoundPage",
+  "reloadPage": "reloadPage",
+  "toggle": "toggle",
+  "unknownError": "unknownError"
 }

@@ -3,5 +3,8 @@
   "language": "English",
   "mainPage": "Main page",
   "aboutPage": "About page",
-  "toggle": "Toggle"
+  "toggle": "Toggle",
+  "notFoundPage": "Not found page",
+  "unknownError": "An unexpected error occurred",
+  "reloadPage": "Reload page"
 }
